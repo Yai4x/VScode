@@ -44,3 +44,5 @@ write_text()
 
 # Close the Turtle graphics window on click
 screen.exitonclick()
+
+print("Hello")
